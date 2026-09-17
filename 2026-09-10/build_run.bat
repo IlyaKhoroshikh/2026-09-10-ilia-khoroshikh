@@ -2,6 +2,8 @@
 chcp 1251 > log
 del log
 
+mkdir build
+
 set MAIN=main.cpp
 set EXE=.\build\main.exe
 
