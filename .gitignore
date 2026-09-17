@@ -68,6 +68,7 @@ vcpkg_installed/
 Testing/
 .cache/
 
+# vscode system files
 .vscode/
-build/
+
 
